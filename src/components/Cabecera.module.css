@@ -1,15 +1,17 @@
 .encabezado {
-    background-color: #ddd;
-    padding: 20px 40px;
-  }
-
-.titulo{
-        margin-bottom: 10px;
+  background-color: #EFC7C2;
+  padding: 20px 40px;
+  color: #694F5D;
 }
 
-.descripcion{
-    background-color: black;
-    color: white;
-    padding: 3px 5px;
-    border-radius: 5px;
-  }
+.titulo {
+  margin-bottom: 10px;
+  color: #432d39;
+}
+
+.descripcion {
+  background-color: #694F5D;
+  color: #FFE5D4;
+  padding: 3px 5px;
+  border-radius: 5px;
+}
